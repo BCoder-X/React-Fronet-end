@@ -1,0 +1,12 @@
+npm create vite@latest
+repositorio git hub
+iniciar repositorio local:
+git init
+cambiar el nombre de master a main:
+git branch -M main
+eliminar credenciales de otros usuarios:
+abrir administrador de credenciales abrir credenciales de windows
+configurar usuario local:
+git config --global user.name "nombre"
+git config --global user.email "mail"
+agregar archivos del proyecto:
