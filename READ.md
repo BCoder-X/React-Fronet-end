@@ -1,5 +1,6 @@
 crear projecto react
 npm create vite@latest
+escoger react javascript + swc
 repositorio git hub
 iniciar repositorio local:
 git init
@@ -38,4 +39,5 @@ git switch -c nombre-de-la-rama
 git push origin nombre-de-la-rama
 # "origin" es el nombre por defecto del repositorio remoto
 # "nombre-de-la-rama" debe coincidir con la rama que creaste
+
 
