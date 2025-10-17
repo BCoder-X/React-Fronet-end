@@ -10,3 +10,21 @@ configurar usuario local:
 git config --global user.name "nombre"
 git config --global user.email "mail"
 agregar archivos del proyecto:
+git add .
+agregar commit:
+git commit "primer commit"
+enlazar repositorio:
+git remote add origin https://github.com/nombre de usuario/nombre de repositorio.git
+subir :
+git push -u origin main
+comprobar estado de proyecto:
+git status
+(si es archivo aparese rojo es nuevo o modificado!)
+Comandos para actualizar el repositorio con la versión local: git status
+git add.
+git commit -m "nombre de la versión o descripción del commit"
+git push
+Crear Ramas:
+git checkout -b nombre de la rama 
+git switch -c nombre de la rama
+git push origin nombre de la rama
